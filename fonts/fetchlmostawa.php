@@ -3,9 +3,9 @@ header("Access-Control-Allow-Origin: *");
 header("add_header 'Access-Control-Allow-Headers' '*';");
 header("add_header 'Access-Control-Allow-Methods' 'GET, POST, PUT, DELETE, OPTIONS';");
 header("Content-Type: application/json; charset=UTF-8");
-$servername = "databases-auth.000webhost.com";
+$servername = "https://databases.000webhost.com/";
 $username = "id20577873_admin";
-$password = "(Evs48b$-YFdp/4~";
+$password = "etalbemahmoud0@M";
 $dbname = "id20577873_national";
 
 
