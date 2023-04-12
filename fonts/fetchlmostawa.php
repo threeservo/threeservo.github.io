@@ -5,7 +5,7 @@ header("add_header 'Access-Control-Allow-Methods' 'GET, POST, PUT, DELETE, OPTIO
 header("Content-Type: application/json; charset=UTF-8");
 $servername = "databases-auth.000webhost.com";
 $username = "id20577873_admin";
-$password = "";
+$password = "(Evs48b$-YFdp/4~";
 $dbname = "id20577873_national";
 
 
